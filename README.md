@@ -11,9 +11,6 @@
 
 <!--  -->
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=Greetings..&hearts;;Python+Developer+for+Cyber+Security;Security Researcher;Team+Lead,;Active+Learner/Researcher,;Adaptive,+Strategic+Thinker.."></a>
-</p>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -31,7 +28,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 
-ï»¿
+
 
 
 ### ›  &nbsp;Tech Stack
@@ -80,12 +77,12 @@
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
 <br>
-âš™ï¸ &nbsp;GitHub Analytics
+&nbsp;GitHub Analytics
 <br>
 <p align="center">
 <a href="https://github.com/engrahsaninam">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=engrahsaninam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engrahsaninam&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=de-ahsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=de-ahsan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -97,14 +94,12 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/engrahsaninam/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/de-ahsan/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/engrahsaninam">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/de-ahsan">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/14597285/engr-ahsan-inam">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="engrahsaninam#5255">
-				<img width="45" height="45" src="https://img.icons8.com/dusk/64/discord-logo.png" alt="discord-logo"/></a>
+
+		
 				
 				
 				
