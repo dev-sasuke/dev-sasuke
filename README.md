@@ -1,4 +1,4 @@
-### <div align="center">This is Ahsan, a Full Stack Developer 👨‍💻 working remotely since 2018 🚀</div> 
+### <div align="center">This is Shabbir, a Full Stack Developer 👨‍💻 working remotely since 2018 🚀</div> 
 -----
   
 ## :technologist: About Me
@@ -6,7 +6,7 @@
   Full Stack Developer with a proven track record in building scalable applications. Adept at problem-solving and thriving on challenges, I consistently deliver high-quality code while adhering to project timelines. With expertise in both front-end and back-end technologies, I strive for better code quality and continuously seek ways to optimize performance. Visit my GitHub account to explore my work and let's collaborate on your next project.
 </div>
 
-- 🔭 I’m currently working on  React/Next, Node, Ruby on Rails, Python, Django, and DevOps.  
+- 🔭 I’m currently working on  React/Next, Node, Nest, Python, Django, fastAPI, Flask and DevOps.  
   
 
 - ❓ Ask me about anything related to Tech.  
@@ -14,7 +14,7 @@
 
 ## :dart: Tools & Technologies 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,redux,python,django,ruby,rails,mysql,postgres,graphql,aws,gcp,azure,heroku,docker,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,angular,vue,nextjs,redux,pinia,python,django,flask,fastapi,tensorflow,nodejs,express,nestjs,electron,mysql,postgres,prisma,sequelize,mongodb,graphql,aws,dynamodb,gcp,azure,heroku,docker,git,githubactions,jenkins,kubernetes,prometheus,sentry,grafana,redis&perline=11" />
 </div>
 <br>
 &nbsp;GitHub Analytics
@@ -34,7 +34,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahsanellahi/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/dev-sasuke">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
