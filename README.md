@@ -14,7 +14,7 @@
 
 ## :dart: Tools & Technologies 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,react,angular,vue,nextjs,redux,pinia,python,django,flask,fastapi,tensorflow,nodejs,express,nestjs,electron,mysql,postgres,prisma,sequelize,mongodb,graphql,aws,dynamodb,gcp,azure,heroku,docker,git,githubactions,jenkins,kubernetes,prometheus,sentry,grafana,redis&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,vite,react,angular,vue,nextjs,redux,pinia,python,django,flask,fastapi,tensorflow,nodejs,express,nestjs,electron,mysql,postgres,prisma,sequelize,mongodb,graphql,aws,dynamodb,gcp,azure,heroku,docker,git,githubactions,jenkins,kubernetes,prometheus,sentry,grafana,redis,vscode&perline=11" />
 </div>
 <br>
 &nbsp;GitHub Analytics
