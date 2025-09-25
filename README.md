@@ -20,9 +20,9 @@
 &nbsp;GitHub Analytics
 <br>
 <p align="center">
-<a href="https://github.com/de-ahsan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=de-ahsan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=de-ahsan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/dev-sasuke">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-sasuke&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-sasuke&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -36,7 +36,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahsanellahi/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/de-ahsan">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/dev-sasuke">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 
 		
